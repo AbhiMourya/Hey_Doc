@@ -1,7 +1,7 @@
 # HeyDoc
 Early stage Parkinson's disease detection and medical assistance mobile application.
 
-## Tean
+## Team
 * Abhijeet Mourya
 * Abhinav kanojia
 * Aman Sanatan
