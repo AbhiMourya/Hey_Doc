@@ -1,6 +1,13 @@
 # HeyDoc
 Early stage Parkinson's disease detection and medical assistance mobile application.
 
+## Tean
+* Abhijeet Mourya
+* Abhinav kanojia
+* Aman Sanatan
+* Aditya Gupt
+* Ujjwal Kumbhakar
+
 ## Problem Statement:
 Parkinson's disease (PD) is a chronic and progressive neurodegenerative disorder that affects millions of people worldwide. One of the biggest challenges for patients with Parkinson's disease is the lack of reliable and accurate methods for early diagnosis.
 
@@ -16,12 +23,14 @@ Machine learning for predicting the severity of the disease in the patient and s
 Cloud based solution for hosting static data of the users as well as for hosting the machine learning algorithm
 
 ### Tech Stack : 
-Flutter - Dart,
-Node.js - Express.js,
-MongoDB - Atlas,
 Tensorflow,
 Keras,
 Numpy,
 Pandas,
 Matplotlib,
-Scikit-learn.
+Scikit-learn,
+Open CV,
+Flutter - Dart,
+Node.js - Express.js,
+MongoDB - Atlas.
+
